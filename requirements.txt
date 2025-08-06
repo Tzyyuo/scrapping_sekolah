@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 flask
 pandas
 xlsxwriter
@@ -8,3 +9,12 @@ webdriver_manager
 openpyxl
 tqdm
 yfinance
+=======
+Flask==2.3.3
+pandas==2.0.3
+requests==2.31.0
+beautifulsoup4==4.12.2
+selenium==4.15.2
+python-dotenv==1.0.0
+lxml==4.9.3 
+>>>>>>> ee2bb8e3a6dc2100d5b8a44d35bf6c1367adcb03
