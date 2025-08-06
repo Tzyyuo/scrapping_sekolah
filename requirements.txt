@@ -1,0 +1,10 @@
+flask
+pandas
+xlsxwriter
+requests
+beautifulsoup4
+selenium
+webdriver_manager
+openpyxl
+tqdm
+yfinance
